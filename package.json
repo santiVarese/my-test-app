@@ -1,0 +1,9 @@
+{
+    "name": "my-test-app",
+    "version": "1.0.0",
+    "description": "A simple test app for Vercel",
+    "scripts": {
+      "start": "echo 'No build step required'"
+    },
+    "dependencies": {}
+  }
